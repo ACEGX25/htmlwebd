@@ -1,0 +1,18 @@
+.abc{
+    color: cyan;
+    font-size: 25pt;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+p{
+    color: chocolate;
+    font-size: 30pt;
+    font-family:cursive;
+    background-color: hotpink;
+}
+
+p:hover{
+    color: lightpink;
+    font-size: 30pt;
+    font-family: cursive;
+    background-color: purple;
+}
